@@ -1,4 +1,7 @@
 # LicensePlateDetector
+
+--- Archived ---  Opensource project which does not deliver the expected results
+
 Detects license plate of car and recognizes its characters
 
 ## Method
